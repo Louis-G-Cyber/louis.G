@@ -1,13 +1,15 @@
 # Hello, I'm Louis.G
+<p align="center">
 <a href="https://www.linkedin.com/in/louis-g-cyber">
-  <img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linkedin-0072b1?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@thedailysocbrief">
-  <img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Medium-12100E?&style=flat-square&logo=medium&logoColor=white" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Louis-G-Cyber/Resume/blob/main/Louis%20G.VetSec%20Resume.pdf">
-  <img src="https://img.shields.io/badge/-Resume-4A90E2?&style=for-the-badge&logo=file-text&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Resume-4A90E2?&style=flat-square&logo=file-text&logoColor=white" />
 </a>
+</p>
 
 
 
