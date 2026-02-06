@@ -1,4 +1,10 @@
-# Hello, I'm Louis.G
+# Hello, I'm Louis.G   ### Certifications
+
+[![CompTIA+](https://img.shields.io/badge/CompTIA+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications)
+[![GFACT](https://img.shields.io/badge/GFACT-4B0082?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gfact)
+[![GISF](https://img.shields.io/badge/GISF-008000?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gisf)
+[![GSEC](https://img.shields.io/badge/GSEC-FF4500?style=for-the-badge&logo=generic&logoColor=white)](https://www.giac.org/certifications/gsec)
+
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-g-cyber) &nbsp;&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-12100E?&style=flat&logo=medium&logoColor=white)](https://medium.com/@thedailysocbrief) &nbsp;&nbsp;&nbsp;
 [![Resume](https://img.shields.io/badge/-Resume-4A90E2?&style=flat&logo=file-text&logoColor=white)](https://github.com/Louis-G-Cyber/Resume/blob/main/Louis%20G.VetSec%20Resume.pdf)
