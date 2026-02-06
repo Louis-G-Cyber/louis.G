@@ -1,4 +1,4 @@
-# Hello, I'm Louis.G ## Certifications 
+# Hello, I'm Louis.G  
 
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-g-cyber) &nbsp;&nbsp;&nbsp;
