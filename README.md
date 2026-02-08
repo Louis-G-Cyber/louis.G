@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-g-cyber) &nbsp;&nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/-Medium-12100E?&style=flat&logo=medium&logoColor=white)](https://medium.com/@thedailysocbrief) &nbsp;&nbsp;&nbsp;
-[![Resume](https://img.shields.io/badge/-Resume-4A90E2?&style=flat&logo=file-text&logoColor=white)](https://github.com/Louis-G-Cyber/Resume/blob/main/Louis%20G.VetSec%20Resume.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-4A90E2?&style=flat&logo=file-text&logoColor=white)](https://github.com/Louis-G-Cyber/Resume/blob/main/README.md)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2BAF2B?&style=flat&logo=github&logoColor=white)](https://github.com/Louis-G-Cyber/Portfolio)
 
 
