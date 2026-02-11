@@ -31,7 +31,7 @@ You’ll find:
 The focus is on practical skills, clear documentation, and repeatable processes rather than theory. Everything here is designed to demonstrate how security work is actually performed in operational environments.
 
 ## Certifications:
-(GCIH)-Security Incident Handling & Hacker Exploits $~~~~~~~$ (GSEC)-Security Essentials  
+ (GSEC)-Security Essentials  
 
 (GISF)-Information Security Fundimentals $~~~~~~$ (GFACT)-Foundational Cybersecurity Technologies 
 
